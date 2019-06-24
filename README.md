@@ -8,7 +8,7 @@
 
 ### 1.载入 CenOS 镜像
 
-点击“编辑虚拟机设置”，选择硬件下的“CD/DVD(IDE)”，然后选择“使用 ISO 映像文件”将 CenOS镜像载入。载入完成后，点击“开启此虚拟机”。
+点击“编辑虚拟机设置”，选择硬件下的“CD/DVD(IDE)”，然后选择“使用 ISO 映像文件”将 CentOS 镜像载入。载入完成后，点击“开启此虚拟机”。
 
 ![](https://raw.githubusercontent.com/MorphiNerd/LinuxNote_2/master/img/002.%E8%BD%BD%E5%85%A5centos%E9%95%9C%E5%83%8F.png)
 
